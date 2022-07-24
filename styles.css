@@ -1,0 +1,19 @@
+* {
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: darkgray;
+}
+
+#carCanvas {
+    background-color: rgb(144, 144, 144);
+}
+
+#networkCanvas {
+    background-color: rgb(203, 203, 203);
+}
